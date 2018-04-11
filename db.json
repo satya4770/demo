@@ -1,7 +1,3 @@
 {
-  "users":[
-    { "id": 1, "name": "Satya" },
-    { "id": 2, "name": "Narco" },
-    { "id": 3, "name": "Bombasto" }
-  ]
+    { "id": 3, "name": "Bombasto" } 
 }
